@@ -15,6 +15,6 @@ public class TC010Test {
 	public static void main(String[]args)
 	{
 	TC010Test obj = new TC010Test();
-	obj.createCustomer();
+	obj.deleteCustomer();
 	}
 }
